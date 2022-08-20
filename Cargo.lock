@@ -902,17 +902,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "libxml"
-version = "0.2.16"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b0f71e821b82fe8ad377edf23ed7a66328df62a49be11377f21230e3955ea1f7"
-dependencies = [
- "libc",
- "pkg-config",
- "vcpkg",
-]
-
-[[package]]
 name = "lock_api"
 version = "0.4.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
